@@ -1,1 +1,1 @@
-# Spotify_Data_Modelling
+# Spotify Data Modelling Project
